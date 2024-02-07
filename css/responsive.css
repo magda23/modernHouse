@@ -1,0 +1,164 @@
+@media (max-width: 1480px) {
+  .footer_block {
+    width: 100%;
+    padding: 50px 3rem;
+  }
+}
+@media (max-width: 1366px) {
+  .slider_item {
+    height: 600px;
+  }
+  .product_section {
+    padding-bottom: 30px;
+  }
+  .product_item {
+    height: 400px;
+  }
+  .sub_title {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .main_title {
+    font-size: 24px;
+  }
+  .product_title {
+    font-size: 22px;
+  }
+  .product_image {
+    height: 300px;
+  }
+  .product_name {
+    margin: 20px 0 15px;
+  }
+  .product_name,
+  .product_price {
+    font-size: 14px;
+  }
+  .banner_img {
+    height: 350px;
+  }
+  .filter_ul li {
+    margin-right: 20px;
+  }
+  .contact_section {
+    padding-right: 3rem;
+  }
+  .contact_block {
+    padding-left: 0;
+  }
+}
+@media (max-width: 1200px) {
+  .percent_,
+  .sale {
+    top: 15px;
+    width: 70px;
+    height: 35px;
+    font-size: 16px;
+  }
+  .percent_ {
+    left: 15px;
+  }
+  .sale {
+    right: 15px;
+  }
+  .footer_right {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: end;
+  }
+  .form_input {
+    width: 350px;
+  }
+}
+@media (max-width: 1024px) {
+  .mobile_menu_block {
+    display: block;
+  }
+  .sidenav {
+    display: none;
+  }
+  .main,
+  .footer_ {
+    margin: 0;
+  }
+}
+@media (max-width: 991px) {
+  .footer_right {
+    display: initial;
+    text-align: start;
+  }
+  .footer_logo {
+    width: 319px;
+  }
+  .footer_block {
+    flex-direction: column;
+  }
+  .bg_img {
+    height: 250px;
+  }
+}
+@media (max-width: 767px) {
+  .container-scroll {
+    overflow-x: scroll;
+  }
+  .container-scroll .row {
+    width: 200%;
+    white-space: nowrap;
+  }
+  .form_input {
+    width: 100%;
+  }
+  .footer_block {
+    padding: 1rem;
+  }
+  .mobile_menu_block {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .contact_section {
+    padding: 1rem;
+  }
+  .contact_block {
+    padding: 1rem 0;
+  }
+  .map_ {
+    height: 300px;
+  }
+}
+@media (max-width: 575px) {
+  .container-scroll .row {
+    width: 280%;
+  }
+  .container-scroll .row .col-4 {
+    padding-left: 0;
+  }
+  .footer_bottom {
+    flex-direction: column;
+  }
+  .title_ {
+    font-size: 37px;
+  }
+  .slider_txt .title_ {
+    width: 100%;
+  }
+  .product_item {
+    height: 200px;
+  }
+  .product_info {
+    bottom: 20px;
+  }
+  .product_title {
+    margin-bottom: 15px;
+  }
+  .product_image {
+    height: 270px;
+  }
+  .footer_logo {
+    width: 100%;
+  }
+  .btn_ {
+    width: 100%;
+  }
+}
